@@ -1,0 +1,12 @@
+{
+  "name": "cse403-ca2",
+  "version": "1.0.0",
+  "description": "Playfair Cipher",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "play": "node index.js"
+  },
+  "author": "BRAVO68WEB",
+  "license": "ISC"
+}
